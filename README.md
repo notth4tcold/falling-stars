@@ -8,8 +8,6 @@
 
 ![screenshot](./screenshot.png)
 
-> _(Você pode substituir essa imagem com um print do jogo rodando)_
-
 ---
 
 ## 🎮 Controles
